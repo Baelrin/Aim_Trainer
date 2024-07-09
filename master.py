@@ -226,9 +226,6 @@ def end_screen(win, elapsed_time, targets_pressed, clicks, high_score):
                 waiting = False
 
 
-# ... (предыдущий код остается без изменений до функции main())
-
-
 def handle_events(game):
     """Handle pygame events."""
     for event in pygame.event.get():
