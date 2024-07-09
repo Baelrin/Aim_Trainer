@@ -20,7 +20,7 @@ Aim Trainer is a Python-based game designed to help players improve their mouse 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/aim-trainer.git
+   git clone https://github.com/Baelrin/aim-trainer.git
    ```
 2. Navigate to the project directory:
    ```
